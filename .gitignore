@@ -9,3 +9,4 @@ ml-env/
 .ipynb_checkpoints
 .vscode/
 Data/
+crop_disease_model_weights.pth
