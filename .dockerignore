@@ -1,0 +1,5 @@
+Data/
+.git/
+ml-env/
+venv/
+__pycache__/
